@@ -1,26 +1,26 @@
-<h1 align="center">Hi there 👋, I'm [YOUR NAME]</h1>
-<h3 align="center">🚀 Passionate Developer | Lifelong Learner | Code Alchemist 🧪</h3>
+<h1 align="center">Hi there 👋, I'm Vasantha Pai</h1>
+<h3 align="center">👨‍💻 Passionate About Code | 🌱 Learning One Step at a Time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Crafting+Code+Creatively;Learning+Every+Single+Day&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Engineer;Learning+Every+Single+Day&center=true&width=500&height=45" />
 </p>
 
 ---
 
 ## 🧭 About Me
 
-- 🎓 I'm a [Your Role/Position] based in [Your Location].  
-- 💼 Currently working on **Roku OTT apps** for [Discovery+](https://www.discoveryplus.com) and [HBO Max](https://www.max.com).  
-- 🌱 I'm learning **Roku development**, and diving deeper into frontend technologies like **JavaScript, React.js, and Next.js**.  
+- 🎓 I'm a Software Engineer based in India.  
+- 💼 Currently working on **Roku OTT apps** for [Discovery+](https://channelstore.roku.com/details/74b46c85af2bf62c25decf0ea5ab0389:76520f9fecfb4d94cc21c37fb6dd6ae5/discovery) and [HBO Max](https://channelstore.roku.com/details/0d825fc70789327f8cdd959fa6ecdc9c:a9eda92fc03dac897660590f04969665/max).  
+- 🌱 Exploring **Roku development** and diving deeper into modern frontend technologies like **JavaScript, ReactJS, and Next.js**  
 - 👨‍💻 Still learning — not a pro yet, but growing every day. Let's learn and build together!  
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: **vasanthpai1996@gmail.com**
 
 ---
 
 ## 📄 Download My Resume
 
 <p align="center">
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://drive.google.com/file/d/1Gj05eB-3vzh1zkbQo0ToJ_QCaXmZGSmv/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-%230077B5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
@@ -31,12 +31,13 @@
 
 ## 🎓 Education
 
-- 🎓 **Bachelor of Technology in [Your Major]**  
-  🏫 [Your University Name], [City, Country]  
-  📅 *[Start Year] – [End Year]*  
-  🏅 CGPA: [Your CGPA] or "Graduated with Distinction"
+- 🎓 **Master of Engineering (M.E.) in [Internet of Things]**  
+  🏫  Manipal School Of Information Sciences (MAHE), Manipal, Udupi, INDIA  
+  📅 *Aug 2018 - Jun 2020*
 
-> 🧑‍🎓 _"Education is not the learning of facts, but the training of the mind to think."_ — *Albert Einstein*
+- 🎓 **Bachelor of Engineering (B.E.) in [Electronics and Communication Engineering]**  
+  🏫 Shri Madhwa Vadiraja Institute of Technology (VTU), Udupi, INDIA  
+  📅 *Aug 2013 - Jun 2017*
 
 ---
 
@@ -78,15 +79,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vasanthpai&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasanthpai&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthpai&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 ---
@@ -111,7 +112,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[your-username]/[your-username]/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/vasanthpai/vasanthpai/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
