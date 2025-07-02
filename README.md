@@ -44,49 +44,49 @@
 ## 🧰 Tech Toolbox
 
 ### 👨‍💻 Languages
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py" />
   </a>
 </p>
 
 ### 🧱 Frameworks & Libraries
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,tailwind,jquery" />
   </a>
 </p>
 
-### 📺 Roku & OTT Dev Tools
+<!-- ### 📺 Roku & OTT Dev Tools
 <p>
   <img src="https://img.shields.io/badge/Roku-BrightScript-6f42c1?style=flat&logo=roku" />
   <img src="https://img.shields.io/badge/SceneGraph-333333?style=flat" />
   <img src="https://img.shields.io/badge/BrightScript-333333?style=flat" />
-</p>
+</p> -->
 
 ### 💻 IDEs & Code Editors
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,sublime,atom" />
   </a>
 </p>
 
 ### 🧪 Testing & Utilities
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,postman" />
   </a>
 </p>
 
 ### 📦 Package Managers
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=npm,pip" />
   </a>
 </p>
 
 ### 🖥️ Operating Systems
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali" />
   </a>
