@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Vasantha Pai</h1>
-<h3 align="center">👨‍💻 Passionate About Code | 🌱 Learning One Step at a Time</h3>
+<!-- <h3 align="center">👨‍💻 Passionate About Code | 🌱 Learning One Step at a Time</h3> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Engineer;Learning+Every+Single+Day&center=true&width=500&height=45" />
@@ -12,10 +12,9 @@
 - 🎓 I'm a Software Engineer based in India.  
 - 💼 Currently working on **Roku OTT apps** for [Discovery+](https://channelstore.roku.com/details/74b46c85af2bf62c25decf0ea5ab0389:76520f9fecfb4d94cc21c37fb6dd6ae5/discovery) and [HBO Max](https://channelstore.roku.com/details/0d825fc70789327f8cdd959fa6ecdc9c:a9eda92fc03dac897660590f04969665/max).  
 - 🌱 Exploring **Roku development** and diving deeper into modern frontend technologies like **JavaScript, ReactJS, and Next.js**  
-- 👨‍💻 Still learning — not a pro yet, but growing every day. Let's learn and build together!  
-- 📫 Reach me at: **vasanthpai1996@gmail.com**
+- 👨‍💻 Still learning — not a pro yet, but growing every day. Let's learn and build together!
 
----
+<!-- ---
 
 ## 📄 Download My Resume
 
@@ -25,7 +24,7 @@
   </a>
 </p>
 
-> 💡 _Click above to grab my latest resume (PDF). Straightforward and clean — just like my code._
+> 💡 _Click above to grab my latest resume (PDF). Straightforward and clean — just like my code._ -->
 
 ---
 
@@ -45,12 +44,8 @@
 
 ### 👨‍💻 Languages
 <p>
-  <a href="https://www.javascript.com/">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  &nbsp;
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=py" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py" />
   </a>
 </p>
 
@@ -114,7 +109,7 @@
 
 ---
 
-## 🌐 Connect With Me
+<!-- ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/[your-linkedin]">
@@ -129,7 +124,7 @@
   <a href="https://[your-portfolio].com">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox-browser&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 <!-- ---
 
