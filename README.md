@@ -48,6 +48,7 @@
   <a href="https://www.javascript.com/">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
+  &nbsp;
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=py" />
   </a>
