@@ -45,8 +45,11 @@
 
 ### 👨‍💻 Languages
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py" />
+  <a href="https://www.javascript.com/">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py" />
   </a>
 </p>
 
