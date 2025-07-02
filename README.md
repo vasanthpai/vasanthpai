@@ -44,37 +44,55 @@
 ## 🧰 Tech Toolbox
 
 ### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-[Language2]-05122A?style=flat&logo=[Language2Logo]" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py" />
+  </a>
 </p>
 
 ### 🧱 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-[OtherLibrary]-05122A?style=flat&logo=[OtherLibraryLogo]" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,tailwind,jquery" />
+  </a>
 </p>
 
 ### 📺 Roku & OTT Dev Tools
 <p>
   <img src="https://img.shields.io/badge/Roku-BrightScript-6f42c1?style=flat&logo=roku" />
   <img src="https://img.shields.io/badge/SceneGraph-333333?style=flat" />
+  <img src="https://img.shields.io/badge/BrightScript-333333?style=flat" />
 </p>
 
 ### 💻 IDEs & Code Editors
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-[IDE]-05122A?style=flat&logo=[IDELogo]" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,sublime,atom" />
+  </a>
 </p>
 
 ### 🧪 Testing & Utilities
-<p>
-  <img src="https://img.shields.io/badge/-[TestingTool]-05122A?style=flat&logo=[TestingToolLogo]" />
-  <img src="https://img.shields.io/badge/-[OtherTool]-05122A?style=flat&logo=[OtherToolLogo]" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,postman" />
+  </a>
 </p>
 
----
+### 📦 Package Managers
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,pip" />
+  </a>
+</p>
+
+### 🖥️ Operating Systems
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali" />
+  </a>
+</p>
+
+<!-- ---
 
 ## 📈 GitHub Stats
 
@@ -88,7 +106,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthpai&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
@@ -109,11 +127,11 @@
   </a>
 </p>
 
----
+<!-- ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vasanthpai/vasanthpai/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+  <img src="https://raw.githubusercontent.com/[your-username]/[your-username]/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p> -->
 
 ---
 
